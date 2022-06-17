@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Zehraqqwx
 - 👀 My goal is to be a hacker
-- 🌱 I’m currently learn
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 öğrenim aşamasindayim.
+- 💞️ pasword hacker
+- 📫 Zhrbozlagan@gmail.com 
 
 <!---
 Zehraqqwx/Zehraqqwx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
